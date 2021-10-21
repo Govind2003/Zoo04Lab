@@ -26,6 +26,15 @@ public class YukonMoose extends Animal{
         public YukonMoose(String name){
         super(name);
     }
+        @Override
+    public void move(){
+            System.out.println("I walk on my legs");
+    }
+    @Override
+    public void speak(){
+        
+        System.out.println("I make loud sounds");
+    }
     public void size(){
         System.out.println(" I'm 6 feet tall...."+this.name);
     }
