@@ -124,211 +124,211 @@ public class ZooApp {
                 // switch by animal type - autogenerate with ZooBuildSwitch.java
                 switch (typeNumberInput) {
 
-                    case 1 -> {
+                    case 1 : {
                         AardvarkGroup.create();
                         AardvarkGroup.run();
                     }
-                    case 2 -> {
+                    case 2 :{
                         AbyssinianGroup.create();
                         AbyssinianGroup.run();
                     }
-                    case 3 -> {
+                    case 3: {
                         ArvicolinaeGroup.create();
                         ArvicolinaeGroup.run();
                     }
-                    case 4 -> {
+                    case 4 : {
                         AspGroup.create();
                         AspGroup.run();
                     }
-                    case 5 -> {
+                    case 5 : {
                         BearcatGroup.create();
                         BearcatGroup.run();
                     }
-                    case 6 -> {
+                    case 6 : {
                         BengalTigerGroup.create();
                         BengalTigerGroup.run();
                     }
-                    case 8 -> {
+                    case 8 : {
                         BlackPantherGroup.create();
                         BlackPantherGroup.run();
                     }
-                    case 9 -> {
+                    case 9 :{
                         BuffaloGroup.create();
                         BuffaloGroup.run();
                     }
-                    case 10 -> {
+                    case 10 :{
                         CatGroup.create();
                         CatGroup.run();
                     }
-                    case 11 -> {
+                    case 11 : {
                         CheetahGroup.create();
                         CheetahGroup.run();
                     }
-                    case 12 -> {
+                    case 12 : {
                         CongoLionGroup.create();
                         CongoLionGroup.run();
                     }
-                    case 13 -> {
+                    case 13 : {
                         CowGroup.create();
                         CowGroup.run();
                     }
-                    case 14 -> {
+                    case 14 : {
                         CrocodileGroup.create();
                         CrocodileGroup.run();
                     }
-                    case 15 -> {
+                    case 15 : {
                         DalmatianGroup.create();
                         DalmatianGroup.run();
                     }
-                    case 16 -> {
+                    case 16 : {
                         DeerGroup.create();
                         DeerGroup.run();
                     }
-                    case 18 -> {
+                    case 18 : {
                         DuckGroup.create();
                         DuckGroup.run();
                     }
-                    case 19 -> {
+                    case 19 : {
                         ElephantBirdGroup.create();
                         ElephantBirdGroup.run();
                     }
-                    case 20 -> {
+                    case 20 : {
                         ElephantGroup.create();
                         ElephantGroup.run();
                     }
-                    case 21 -> {
+                    case 21 : {
                         EmuGroup.create();
                         EmuGroup.run();
                     }
-                    case 22 -> {
+                    case 22 : {
                         FerociousTigerGroup.create();
                         FerociousTigerGroup.run();
                     }
-                    case 23 -> {
+                    case 23 :{
                         FloppyGroup.create();
                         FloppyGroup.run();
                     }
-                    case 24 -> {
+                    case 24 :{
                         GerenukGroup.create();
                         GerenukGroup.run();
                     }
-                    case 25 -> {
+                    case 25 :{
                         GiraffeGroup.create();
                         GiraffeGroup.run();
                     }
-                    case 26 -> {
+                    case 26 : {
                         GlyptodonGroup.create();
                         GlyptodonGroup.run();
                     }
-                    case 27 -> {
+                    case 27 : {
                         GoatGroup.create();
                         GoatGroup.run();
                     }
-                    case 28 -> {
+                    case 28 : {
                         GriffinGroup.create();
                         GriffinGroup.run();
                     }
-                    case 29 -> {
+                    case 29:{
                         HarpSealGroup.create();
                         HarpSealGroup.run();
                     }
-                    case 30 -> {
+                    case 30 : {
                         HippopotamusGroup.create();
                         HippopotamusGroup.run();
                     }
-                    case 31 -> {
+                    case 31 : {
                         KangarooGroup.create();
                         KangarooGroup.run();
                     }
-                    case 32 -> {
+                    case 32 : {
                         KangaroovGroup.create();
                         KangaroovGroup.run();
                     }
-                    case 33 -> {
+                    case 33 : {
                         KoalaGroup.create();
                         KoalaGroup.run();
                     }
-                    case 34 -> {
+                    case 34 :{
                         LionessGroup.create();
                         LionessGroup.run();
                     }
-                    case 35 -> {
+                    case 35 : {
                         LionGroup.create();
                         LionGroup.run();
                     }
-                    case 36 -> {
+                    case 36 : {
                         MightyLionGroup.create();
                         MightyLionGroup.run();
                     }
-                    case 37 -> {
+                    case 37 : {
                         MuleDeerGroup.create();
                         MuleDeerGroup.run();
                     }
-                    case 38 -> {
+                    case 38 :{
                         OkapiGroup.create();
                         OkapiGroup.run();
                     }
-                    case 39 -> {
+                    case 39: {
                         PandaGroup.create();
                         PandaGroup.run();
                     }
-                    case 40 -> {
+                    case 40 :{
                         PantheraGroup.create();
                         PantheraGroup.run();
                     }
-                    case 41 -> {
+                    case 41 :{
                         PolarBearGroup.create();
                         PolarBearGroup.run();
                     }
-                    case 42 -> {
+                    case 42 :{
                         PumaGroup.create();
                         PumaGroup.run();
                     }
-                    case 43 -> {
+                    case 43 : {
                         RabbitGroup.create();
                         RabbitGroup.run();
                     }
-                    case 44 -> {
+                    case 44 : {
                         RelayHorseGroup.create();
                         RelayHorseGroup.run();
                     }
-                    case 45 -> {
+                    case 45 :{
                         RoaringLionGroup.create();
                         RoaringLionGroup.run();
                     }
-                    case 46 -> {
+                    case 46: {
                         ShoebillGroup.create();
                         ShoebillGroup.run();
                     }
-                    case 48 -> {
+                    case 48 : {
                         SquirrelGroup.create();
                         SquirrelGroup.run();
                     }
-                    case 49 -> {
+                    case 49 : {
                         StagGroup.create();
                         StagGroup.run();
                     }
-                    case 50 -> {
+                    case 50: {
                         StringRayGroup.create();
                         StringRayGroup.run();
                     }
-                    case 51 -> {
+                    case 51 :{
                         SunBearGroup.create();
                         SunBearGroup.run();
                     }
-                    case 52 -> {
+                    case 52 :{
                         WalrusGroup.create();
                         WalrusGroup.run();
                     }
-                    case 53 -> {
+                    case 53 :{
                         XraytetraGroup.create();
                         XraytetraGroup.run();
                     }
-                    case 54 -> {
+                    case 54 : {
                         YukonMooseGroup.create();
                         YukonMooseGroup.run();
                     }
-                    default -> {
+                    default : {
                     }
 
                 }
